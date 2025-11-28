@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://ug.link/tbotp"
 PORT = "8899"
-USERNAME = "Rayluer"
+USERNAME = "TBOTP"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
